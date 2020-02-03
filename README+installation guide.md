@@ -1,4 +1,7 @@
-Compilation guide:  
+made by Saar Peleg and Eldar Peleg
+
+Compilation guide:
+
 0. make sure both firebase and datacrea modules are on release mode (smal square at bottom left of android studio to check).
 1. in android studio, press Build
 2. press Build Bundle(s)/APK
