@@ -13,3 +13,5 @@ How to install and run:
 3. to play the game, just press the icon after installation :)
 
 full user guide of how to play the game can be found in the word project document
+since the files are too big for github, full source code and apk can be found at: 
+https://drive.google.com/drive/folders/1_JSkH03bzlW1roBpDIuVTiwkWkUEMqgQ?usp=sharing
