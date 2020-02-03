@@ -1,11 +1,12 @@
 Compilation guide:
+0. make sure both firebase and datacrea modules are on release mode (smal square at bottom left of android studio to check).
 1. in android studio, press Build
 2. press Build Bundle(s)/APK
 3. after android studio finish, it will show a messege in the event log:
 "Build APK(s)
 			APK(s) generated successfully for 1 module:
 			Module 'DataCrea': locate or analyze the APK."
-4. press "locate" to find the compiled apk.
+4. press "locate" to find the compiled apk to find the apk.
 
 How to install and run:
 1. move the apk to your phone
